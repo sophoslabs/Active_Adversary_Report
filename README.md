@@ -1,6 +1,6 @@
 # Active_Adversary_Report
 # Datasets from the Sophos Active Adversary Report
-This repository contains copies of data analyzed in Sophos' Active Adversary Reports, starting with the report issued 2 April 2025 ("It Takes Two: The 2025 Sophos Active Adversary Report"). We are providing access to this data in the hope of starting broader conversations in the defender community about the issues raised in the report, and as part of our continuing efforts to encourage greater transparency and collaboration within the infosec community. We welcome your comments!
+This repository contains copies of data analyzed in Sophos' Active Adversary Reports, starting with the report issued 2 April 2025 ("It Takes Two: The 2025 Sophos Active Adversary Report"). We are providing access to this data in the hope of starting broader conversations in the defender community about the issues raised in the report, and as part of our continuing efforts to encourage greater transparency and collaboration within the infosec community. We welcome your comments.
 
 The data has been collected, normalized, and sanitized for public use as described in the report ("Appendix: Methodology"). The text of that appendix as of the April 2025 release is reproduced in the Methodology below. We've also uploaded a PDF copy of the report for reference / convenience.
 
